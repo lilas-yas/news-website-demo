@@ -1,0 +1,9 @@
+# Server Configuration
+PORT=3000
+
+# Application Settings
+VITE_APP_TITLE="The Daily Chronicle"
+
+# Analytics (Optional - leave empty if not using Umami/Plausible)
+VITE_ANALYTICS_ENDPOINT=""
+VITE_ANALYTICS_WEBSITE_ID=""
